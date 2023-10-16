@@ -1,2 +1,1 @@
-# new_repository
-new repo is created
+<h1>hi this is new one </h1>
